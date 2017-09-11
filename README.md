@@ -14,7 +14,7 @@ Supports cross-domain, chunked and resumable file uploads and client-side image 
 ## Support
 
 * **[Support Forum](https://groups.google.com/d/forum/jquery-fileupload)**  
-* http://www.phpfreelanceprogrammer.com/jquery-ajax-programmer.html
+* [Freelance jquery developer](https://www.phpfreelanceprogrammer.com/jquery-ajax-programmer.html)
 **Support requests** and **general discussions** about the File Upload plugin can be posted to the official
 [Support Forum](https://groups.google.com/d/forum/jquery-fileupload).  
 If your question is not directly related to the File Upload plugin, you might have a better chance to get a reply by posting to [Stack Overflow](http://stackoverflow.com/questions/tagged/blueimp+jquery+file-upload).
